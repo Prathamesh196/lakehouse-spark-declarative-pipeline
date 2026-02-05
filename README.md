@@ -7,7 +7,7 @@ This project demonstrates how raw data can be incrementally ingested, validated,
 
 ## 🎥 Project Walkthrough Video
 
-[Watch the full project demo](https://youtu.be/bIIC44n2Dss?si=l3bF4F0NzkzdfmKX)
+[Watch the full project demo](https://youtu.be/cbICf7eSO-c?si=L6LE8X4MinM0fK81)
 
 ---
 
